@@ -111,9 +111,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Bubble_Sort.cpp" />
-    <ClCompile Include="Linked_List.cpp" />
-    <ClCompile Include="Selection_Sort.cpp" />
+    <ClCompile Include="1_Bubble_Sort.cpp" />
+    <ClCompile Include="4_Insertion_Sort.cpp" />
+    <ClCompile Include="2_Linked_List.cpp" />
+    <ClCompile Include="3_Selection_Sort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
